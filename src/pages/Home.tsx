@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="bg-black text-white overflow-hidden">
       <Helmet>
-        <title>Samuel Jordesson | Software Developer & Creative Technologist</title>
+        <title>efllar - web developer</title>
         <meta name="description" content="Portfólio de Samuel Jordesson (efflar), desenvolvedor de software especializado em React, Node.js e soluções digitais de alta performance." />
         <link rel="canonical" href={window.location.origin} />
         
